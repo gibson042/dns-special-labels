@@ -45,6 +45,12 @@ Introduction
 
 Why the registry is needed
 
+The special labels defined in the various RFCs in the new registry came
+after extensive IETF evaluation of alternative patterns and approaches in
+light of the desired behavior of the associated protocols.
+The group designing each protocol looked at the many different ways that
+the protocol might be best deployed.
+
 <!--
 ## Terminology
 
@@ -61,11 +67,14 @@ Existing Special Labels {#existing}
 The following describes the labels that are the initial contents of the registry
 described in {{ianacons}}. 
 
+@@ underscore labels
+
 @@ IDNA2008
 
 @@ Sentinel
 
 @@ mta-sts
+
 
 IANA Considerations {#ianacons}
 ===================
