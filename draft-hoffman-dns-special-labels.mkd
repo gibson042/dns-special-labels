@@ -43,6 +43,9 @@ entities such as stub resolvers, recursive resolvers, and applications
 that use DNS, and developers of software for those entities should be aware of the
 many types of special labels in use.
 
+\[\[ A GitHub repo for this document is at
+https://github.com/paulehoffman/dns-special-labels \]\]
+
 --- middle
 
 Introduction
